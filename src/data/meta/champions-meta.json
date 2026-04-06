@@ -1,0 +1,33 @@
+{
+  "season": "2026-S1",
+  "allowedGimmick": ["tera"],
+  "usage": [
+    {
+      "id": 149,
+      "name": "망나뇽",
+      "usageRate": 32.4,
+      "popularMoves": ["outrage", "earthquake"],
+      "popularItem": "choice-scarf",
+      "popularAbility": "multiscale",
+      "popularTeraType": "normal"
+    },
+    {
+      "id": 376,
+      "name": "메타그로스",
+      "usageRate": 28.1,
+      "popularMoves": ["meteor-mash", "zen-headbutt", "ice-punch", "earthquake"],
+      "popularItem": "assault-vest",
+      "popularAbility": "clear-body",
+      "popularTeraType": "steel"
+    },
+    {
+      "id": 445,
+      "name": "한카리아스",
+      "usageRate": 25.7,
+      "popularMoves": ["earthquake", "dragon-claw", "iron-head", "swords-dance"],
+      "popularItem": "rocky-helmet",
+      "popularAbility": "rough-skin",
+      "popularTeraType": "fairy"
+    }
+  ]
+}

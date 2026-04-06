@@ -1,0 +1,12 @@
+{
+  "choice-specs":  { "multiplier": 1.5, "stat": "spa", "locked": true },
+  "choice-band":   { "multiplier": 1.5, "stat": "atk", "locked": true },
+  "choice-scarf":  { "multiplier": 1.5, "stat": "spe", "locked": true },
+  "life-orb":      { "multiplier": 1.3, "recoil": 0.1 },
+  "leftovers":     { "heal": 0.0625, "timing": "end-of-turn" },
+  "black-sludge":  { "heal": 0.0625, "timing": "end-of-turn", "poisonOnly": true },
+  "assault-vest":  { "multiplier": 1.5, "stat": "spd", "noStatus": true },
+  "eviolite":      { "multiplier": 1.5, "stat": "def", "multiplierSpd": 1.5 },
+  "rocky-helmet":  { "recoilOnContact": 0.1667 },
+  "focus-sash":    { "surviveOneHit": true }
+}

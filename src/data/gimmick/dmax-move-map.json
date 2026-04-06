@@ -1,0 +1,20 @@
+{
+  "normal":   { "name": "다이어택", "power": 100 },
+  "fire":     { "name": "다이버닝", "power": 140, "effect": "sunny" },
+  "water":    { "name": "다이스트림", "power": 130, "effect": "rainy" },
+  "electric": { "name": "다이썬더", "power": 130, "effect": "electric-terrain" },
+  "grass":    { "name": "다이소울러", "power": 130, "effect": "grassy-terrain" },
+  "ice":      { "name": "다이아이스", "power": 130, "effect": "snow" },
+  "fighting": { "name": "다이너클", "power": 130 },
+  "poison":   { "name": "다이애시드", "power": 130 },
+  "ground":   { "name": "다이어스", "power": 130, "effect": "sandstorm" },
+  "flying":   { "name": "다이제트", "power": 130 },
+  "psychic":  { "name": "다이사이코", "power": 130, "effect": "psychic-terrain" },
+  "bug":      { "name": "다이버그", "power": 100 },
+  "rock":     { "name": "다이록", "power": 130 },
+  "ghost":    { "name": "다이홀로", "power": 130 },
+  "dragon":   { "name": "다이드래코", "power": 130 },
+  "dark":     { "name": "다이아크마", "power": 130 },
+  "steel":    { "name": "다이스틸", "power": 130 },
+  "fairy":    { "name": "다이페어리", "power": 100 }
+}
